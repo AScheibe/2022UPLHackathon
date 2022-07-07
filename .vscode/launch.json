@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch HackathonApplication",
+            "request": "launch",
+            "mainClass": "org.albensumya.hackathon.HackathonApplication",
+            "projectName": "hackathon"
+        },
+        {
+            "type": "java",
+            "name": "Launch Algo",
+            "request": "launch",
+            "mainClass": "org.albensumya.hackathon.Algo",
+            "projectName": "hackathon"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoApplication",
+            "request": "launch",
+            "mainClass": "demo.src.main.java.com.example.demo.DemoApplication",
+            "projectName": "2022Hackathon_f2dfcb9e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "vmArgs": "--module-path /Users/alexscheibe/Desktop/javafx-sdk-11.0.2 --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Main",
+            "projectName": "Random-Password-Generator-main"
+        }
+    ]
+}
